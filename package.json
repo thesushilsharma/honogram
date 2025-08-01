@@ -1,0 +1,24 @@
+{
+  "name": "honogram",
+  "type": "module",
+  "main": "src/server.ts",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "start": "tsx src/server.ts",
+    "client": "tsx src/client.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.18.0",
+    "hono": "^4.8.10",
+    "nanoid": "^5.1.5",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "@types/ws": "^8.18.1",
+    "nodemon": "^3.1.10",
+    "tsx": "^4.7.1",
+    "typescript": "^5.8.3"
+  }
+}
