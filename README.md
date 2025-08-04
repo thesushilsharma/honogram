@@ -64,4 +64,16 @@ The application works on:
 
 ---
 
+## Known Issues
+
+none
+
+## Contributing
+
+To contribute to this project, please submit any issues or pull requests on the GitHub repository.
+
+## License
+
+This project is licensed under the MIT License.  See the [LICENSE](LICENSE) file for details
+
 **Built with ❤️ using Hono, TypeScript, and WebSockets**
