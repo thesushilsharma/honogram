@@ -37,9 +37,9 @@ npm start
 
 ### CLI Client
 ```bash
-npm run client
+pnpm run client
 # or connect to specific server
-npm run client ws://[SERVER_IP]:3001
+pnpm run client ws://[SERVER_IP]:3001
 ```
 
 ### Web Interface
